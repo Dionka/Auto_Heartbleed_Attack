@@ -1,5 +1,5 @@
 #!/bin/bash
-# sxolia se polles grammes : ' alala ' 
+
 # 
 # AUTHOR: Dionka
 # DATE:   22 Feb 2015
